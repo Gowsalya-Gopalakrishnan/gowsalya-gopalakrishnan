@@ -27,8 +27,11 @@ I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript
 
 👨‍💻CONNECT WITH ME
 
-  ![src](./assets/githubgithub.svg)
-  ![src](./assets/likedlngithub.svg)
+ <a href="https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/" target="_blank">
+  <img src="./assets/likedlngithub.svg" alt="LinkedIn" />
+</a>
+
+  ![src]()
 
 
 👨‍💻TECH STACK & WORKING TOOLS
