@@ -26,6 +26,7 @@ I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript
 📫 You can contact me at gowsalyagopalakrishnan1515@gmail.com
 
 👨‍💻CONNECT WITH ME
+  
 
 👨‍💻TECH STACK & WORKING TOOLS
 
