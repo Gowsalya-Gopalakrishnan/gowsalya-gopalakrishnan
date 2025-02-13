@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👨‍💻ABOUT ME
+
 I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript. I specialize in building real-time, visually appealing UIs using Chakra UI. I have experience fetching data from backend services such as JSON Server, Glitch, and REST APIs. My focus is on writing clean, efficient, and maintainable code.
 
 🌍 I hail from Sivakasi, Tamil Nadu.
