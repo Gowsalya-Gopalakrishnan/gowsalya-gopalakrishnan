@@ -20,8 +20,10 @@ I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript
 🌍 I hail from Sivakasi, Tamil Nadu.
 
 🔥 Visit my porfolio for more details.
+https://gowsalya-gopalakrishnan.github.io/Portfolio_Website/#/
 
 ⭐ Visit my linked for more details.
+https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/
 
 📫 You can contact me at gowsalyagopalakrishnan1515@gmail.com
 
@@ -54,4 +56,4 @@ I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript
 ![src](./assets/vscodegithub.svg)
 ![src](./assets/reduxgithub.svg)
 
- 🐱My Github stats:
+ 
