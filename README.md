@@ -33,8 +33,8 @@ https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/
  <a href="https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/" target="_blank">
   <img src="./assets/likedlngithub.svg" alt="LinkedIn" />
 `</a>
-<a href="" target="_blank">
-  <img src="" alt="LinkedIn" />
+<a href="https://gowsalya-gopalakrishnan.github.io/Portfolio_Website/#/" target="_blank">
+  <img src="./assets/githubgithub.svg" alt="Portfolio" />
 </a>
 
  
