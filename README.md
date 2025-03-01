@@ -21,7 +21,7 @@ I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript
 🌍 I hail from Sivakasi, Tamil Nadu.
 
 🔥 Visit my porfolio for more details.
-https://gowsalya-gopalakrishnan.github.io/Portfolio_Website/#/
+https://luxury-entremet-7b0a2a.netlify.app/
 
 ⭐ Visit my linked for more details.
 https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/
