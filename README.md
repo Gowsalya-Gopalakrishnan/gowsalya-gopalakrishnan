@@ -1,4 +1,6 @@
-## Hello, I'm Gowsalya  😊👋
+## 👋 Hi, I’m Gowsalya
+## 🌍 I hail from Bengaluru, Karnataka.
+
 
 <!--
 **Gowsalya-Gopalakrishnan/gowsalya-gopalakrishnan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,17 +18,29 @@ Here are some ideas to get you started:
 -->
 👨‍💻ABOUT ME
 
-I am a React Developer with expertise in React, Redux, HTML, CSS, and JavaScript. I specialize in building real-time, visually appealing UIs using Chakra UI. I have experience fetching data from backend services such as JSON Server, Glitch, and REST APIs. My focus is on writing clean, efficient, and maintainable code.
+I’m a 2024 MCA graduate with a passion for turning data into meaningful insights. I’m currently completing a Data Science course at Besant Technologies, where I’m building hands-on skills in analytics, machine learning, and AI.
 
-🌍 I hail from Sivakasi, Tamil Nadu.
+🎓 What I’ve Learned
+Python for data analysis and automation
+SQL for querying and managing databases
+Power BI for dashboards and data visualization
+Machine Learning for building predictive models
+Deep Learning for neural network-based solutions
+Generative AI for modern AI applications
 
-🔥 Visit my porfolio for more details.
-https://neon-paprenjak-069a66.netlify.app/
+🔍 What I’m Looking For
+
+I’m seeking an entry-level Data Analyst or Data Science role where I can apply my skills, contribute to real projects, and keep growing as a professional.
+
+
+🚀 What’s Here
+
+You’ll find my course projects, practice work, and learning experiments in my repositories. I’m updating them regularly as I learn.
 
 ⭐ Visit my linked for more details.
 https://www.linkedin.com/in/gowsalya-gopalakrishnan-547a6a34a/
 
-📫 You can contact me at gowsalyagopalakrishnan1515@gmail.com
+📫 You can contact me at gpkgowsalya@gmail.com
 
 👨‍💻CONNECT WITH ME
 
